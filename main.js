@@ -47,7 +47,7 @@ class Block{
     }
 }
 function mousePressed(){
-    block.dy = -3;
+    block.dy = 0;
     score++;
 }
 function mouseReleased(){
